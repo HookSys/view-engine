@@ -6,4 +6,4 @@ O projeto consistia em construir dinamicamente formulários de cadastro para div
 
 Projeto apenas para estudos.
 
-Idealizado e construido por Hook Sys - Consultorias e Soluções.
+Idealizado e construido por HookSys - Consultorias e Soluções.
